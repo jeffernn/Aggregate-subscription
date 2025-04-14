@@ -246,7 +246,7 @@ async function nginx() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="0;url=https://www.xinhuanet.com/">
-    <title>新华社_让新闻离你更近</title>
+    <title>新华网_让新闻离你更近</title>
 </head>
 <body>
 </body>
